@@ -22,8 +22,8 @@ This project implements a recommendation system that:
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/music-recommendation-system.git
-cd music-recommendation-system
+git clone https://github.com/farazahmed2048/codealpha_tasks.git
+cd Task_1 (music-recommendation-system)
 pip install -r requirements.txt
 ```
 
