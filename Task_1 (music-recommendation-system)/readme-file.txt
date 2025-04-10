@@ -1,6 +1,8 @@
 # Music Recommendation System
 
-A machine learning-based music recommendation system inspired by Spotify's approach. This system predicts a user's likelihood of repeatedly listening to a song within a set timeframe and generates personalized song recommendations.
+A machine learning-based music recommendation system inspired by Spotify's approach. 
+This system predicts a user's likelihood of repeatedly listening to a song within a 
+set timeframe and generates personalized song recommendations.
 
 ## Project Overview
 
